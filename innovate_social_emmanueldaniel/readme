@@ -1,0 +1,6 @@
+///Here are some short description on how to use this file
+/// I Emmanuel Daniel , i am the developer of this minimal project
+///Then script that is being run by the platform crontab scheduler is located in the '/job/schedulechecker.php'
+///Import the database and you can now move on 
+///Dont forget to configer the CronJob tab on your PC / Laptop
+
